@@ -15,5 +15,3 @@ A production-style ETL pipeline that fetches daily stock prices, transforms them
 1. Extract daily stock data from an external API  
 2. Transform and clean data using PySpark  
 3. Load data into AWS S3 in Delta format  
-
-## Storage
